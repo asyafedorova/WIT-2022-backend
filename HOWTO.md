@@ -12,7 +12,7 @@ Some words about homework style:
 1. Branch **must** be named according to the template: `feature/TASK-%TASK_NUMBER%`, where `%TASK_NUMBER%` is the task number (ha-ha, classic). As rule its contains two digits divided by a dot: the first one is for week number, the second one - for a specific task.
 2. Commit **must** be named according to the template: `[TASK-%TASK_NUMBER]: %Description%`, where `%TASK_NUMBER%` is the task number and `%Description%` is a description (stop laughing) of what you've done in this particular commit. Example: what files were added, what functionality you added, etc. **Sorry, girls, description must be in English.** ;) 
 3. Don't push any commit directly in master!
-4. Merge-request must be specified with details of added functional.
-5. You can merge (_agaaain_) merge-request in master only after mentor's approve. 
+4. Pull-request must be specified with details of added functional.
+5. You can merge pull-request in master only after mentor's approve. 
 
 Good luck! If you have any questions - feel free to ask your mentor.
