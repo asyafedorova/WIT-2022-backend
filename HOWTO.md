@@ -14,5 +14,6 @@ Some words about homework style:
 3. Don't push any commit directly in master!
 4. Pull-request must be specified with details of added functional.
 5. You can merge pull-request in master only after mentor's approve. 
+6. Every task from the homework - separate directory. 
 
 Good luck! If you have any questions - feel free to ask your mentor.
