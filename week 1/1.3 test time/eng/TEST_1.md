@@ -4,11 +4,6 @@ Answers must be written in .md file and added in your repository before next cal
 
 1. Why we need Git?
 2. What is IDE?
-3. 
-
-
-1. Зачем нужен Git?
-2. Что такое IDE?
 3. What programming language is Java?
 4. What steps you should do before start java-program?
 5. What is main method?
