@@ -1,4 +1,4 @@
-1. Create public repository.
+1. Create public repository with name: wit-v1-base.
 2. Create branch from main-branch with name feature/TASK-1.0.
 3. In this branch create README.md file where describe your experience and expectations about the course.
 4. Commit all the changes with template.
