@@ -2,6 +2,8 @@
 
 In this file you'll find all the instructions about usage of homework-repository. 
 
+SOMETHING WAS ADDED HE HE HE 
+
 Let's start from the beginning: there you can find all homework and tests for every of 14 studying weeks in 2 languages - English and Russian.
 
 Every homework or test bind to study week so that's why I've put them in thematic directories with specified name. So you can find all that concerns 1 week in _week 1_ directory. Seems easy? It's easy. :) Also you can find not only homework but test as well - you must finish it before next week call. 
